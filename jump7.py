@@ -4,7 +4,7 @@ def away7(i):
     else:
         return 1
 
-for i in range(1,101):
+for i in range(1,201):
     if away7(i):
         print(i)
 
